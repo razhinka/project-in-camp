@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto+Slab:wght@400&display=swap');
+
+body {
+    display: block;
+    background: url(https://media.istockphoto.com/vectors/black-cat-seamless-pattern-background-wallpaper-vector-id679553442?k=20&m=679553442&s=170667a&w=0&h=Xb77quCLVC2WnhVdPOa3vaRSpHJmVBHwYlxL-3bHtI0=) repeat;
+    background-size: 40%;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto Slab', serif;
+    font-size: 100%;
+    text-align: center;
+}
+
+.contain {
+    margin-top: 120px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+
+table {
+    margin-top: 100px;
+}
+
+td {
+    padding-right: 30px;
+    padding-bottom: 100px;
+}
+
+img {
+    border-radius: 16px;
+    box-shadow: -15px 5px 15px 0px rgb(0 0 0 / 25%);
+    background-color: #ffffff;
+}
+
+h1 {
+    background: #d5a3ff;
+    border-radius: 16px;
+    padding: 5px;
+}
